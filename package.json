@@ -1,0 +1,25 @@
+{
+  "name": "readme_gen",
+  "version": "1.0.0",
+  "description": "Readme Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jos23867/readme_gen.git"
+  },
+  "author": "Jose J. Guerrero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jos23867/readme_gen/issues"
+  },
+  "homepage": "https://github.com/jos23867/readme_gen#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^8.0.0",
+    "util": "^0.12.3"
+  }
+}
